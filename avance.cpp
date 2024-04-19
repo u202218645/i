@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include <cstdlib> // Para system("cls") en Windows y system("clear") en Unix
+#include <cstdlib> // Para system("cls") 
 
 using namespace std;
 
